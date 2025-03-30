@@ -12,7 +12,7 @@ A powerful web application for stock analysis and visualization built with Strea
 
 ## Live Demo
 
-[Access StockTrackPro here](https://stocktrackpro.streamlit.app) *(Update this link once deployed)*
+[Access StockTrackPro here](https://gostockz.streamlit.app) *(Update this link once deployed)*
 
 ## Installation
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - Stock data provided by Yahoo Finance
-- Built with ❤️ by [Your Name]
+- Built with ❤️ by Raghavendra
